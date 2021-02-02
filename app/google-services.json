@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396575088946",
+    "project_id": "leeminsoo-tutorial",
+    "storage_bucket": "leeminsoo-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396575088946:android:a66543772949d1fda0f72b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396575088946-5svpknatk63no3pv459prak1a4p9f0qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57tkHkDbmbAOBkRssrYPq2MI9sgM1NMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396575088946-5svpknatk63no3pv459prak1a4p9f0qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

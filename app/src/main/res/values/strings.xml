@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectKl</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">내 주변</string>
+    <string name="title_notifications">알림</string>
+    <string name="main_act_name">KLProject</string>
+</resources>
