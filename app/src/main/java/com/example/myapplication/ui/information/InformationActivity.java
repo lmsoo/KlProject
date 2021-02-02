@@ -14,15 +14,9 @@ import com.example.myapplication.R;
 
 
 public class InformationActivity extends AppCompatActivity {
- 
+
     TextView textview;
 
-
-    //send2
-    //send3
-    //send4
-    //send4
-    //send5
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
