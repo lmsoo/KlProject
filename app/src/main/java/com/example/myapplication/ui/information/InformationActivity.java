@@ -14,14 +14,7 @@ import com.example.myapplication.R;
 
 
 public class InformationActivity extends AppCompatActivity {
-    //test
-    //
-    //
-    //
-    //
-    //58585
-    //484654
-    //54864546
+ 
     TextView textview;
 
 
