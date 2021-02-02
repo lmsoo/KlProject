@@ -79,7 +79,7 @@ public class locationViewModel extends Fragment implements OnMapReadyCallback {
         fm = getActivity().getSupportFragmentManager();
         locationModalFrag=new locationModalFrag();
         mapView = (MapView) view.findViewById(R.id.mapView);
-        previous_marker = new ArrayList<Marker>();
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            previous_marker = new ArrayList<Marker>();
 
         mapView.onCreate(savedInstanceState);
         mapView.getMapAsync(this);
