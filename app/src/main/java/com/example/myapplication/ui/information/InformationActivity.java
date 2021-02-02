@@ -14,6 +14,7 @@ import com.example.myapplication.R;
 
 
 public class InformationActivity extends AppCompatActivity {
+    //test
     TextView textview;
 
     @Override
