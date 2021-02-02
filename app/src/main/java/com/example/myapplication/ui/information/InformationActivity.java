@@ -24,6 +24,13 @@ public class InformationActivity extends AppCompatActivity {
     //54864546
     TextView textview;
 
+
+    //send2
+    //send3
+    //send4
+    //send4
+    //send5
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
